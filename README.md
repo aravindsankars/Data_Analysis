@@ -8,8 +8,8 @@ This project involves exploratory data analysis of IMDb movie ratings to compare
 
 *Key analyses include:*
 
-IMDb Ratings Distribution
-Comparative Analysis of Average Ratings by Genre
+IMDb Ratings Distribution,
+Comparative Analysis of Average Ratings by Genre,
 Comparative Analysis of the Number of Titles by Region
 
 ### 2. Netflix Genre Popularity Analysis (2019 vs 2021)
@@ -17,6 +17,6 @@ In this project, I analyze Netflix show genres from 2019 and 2021 to understand 
 
 *Key analyses include:*
 
-Genre Popularity Trends
-Genre Growth/Decline by Viewership
+Genre Popularity Trends,
+Genre Growth/Decline by Viewership,
 Data Visualizations using Bar Charts, Heatmaps, and Trend Lines
